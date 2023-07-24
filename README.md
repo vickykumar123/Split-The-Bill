@@ -2,7 +2,8 @@
 
 ![image](https://github.com/vickykumar123/Split-The-Bill/assets/41174782/5799985f-c472-44e0-a008-a601536e69b8)
 
-Live Deployment :: https://splitmybillss.netlify.app/
+Live Deployment :: https://splitthebills.netlify.app/
+
 This is simple react app to calculate the split the bill among the friends.
 
 ### `npm start`
